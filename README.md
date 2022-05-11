@@ -1,3 +1,3 @@
 # Majesco QA Demo
 
-This is for testing purpose only
+This is for testing purpose only!
